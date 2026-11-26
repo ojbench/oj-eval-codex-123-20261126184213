@@ -38,3 +38,13 @@ g++ -std=c++17 -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g \
 
 The submission client was repaired to add the `submit_code` method already
 called by its command-line interface.
+
+## Online judge result
+
+- Submission: `879622` (first and only attempt).
+- Submitted implementation commit: `dbb64d7`.
+- Result: Accepted, 100/100; all 15 test points and all five subtasks passed.
+- Reported total time: 1505 ms; peak memory: 4,182,016 bytes.
+- The POST response timed out, but the submission was recovered from the
+  submission listing and checked with the client's `status` command. No
+  duplicate submission was made.
